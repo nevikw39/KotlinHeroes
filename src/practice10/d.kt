@@ -1,3 +1,5 @@
+package practice10
+
 import java.util.TreeSet
 
 private fun solve() {

@@ -1,3 +1,5 @@
+package practice10
+
 import kotlin.math.min
 import kotlin.math.max
 

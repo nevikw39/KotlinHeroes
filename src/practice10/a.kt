@@ -1,3 +1,5 @@
+package practice10
+
 private fun solve() {
     val n = readln().toInt()
     val a = readln().split(' ').map { it.toInt() }

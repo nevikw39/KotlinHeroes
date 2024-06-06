@@ -1,3 +1,5 @@
+package practice10
+
 private fun solve() {
     val (a, b) = readln().split(' ').map {
         when (it.last()) {

@@ -1,3 +1,5 @@
+package practice10
+
 import kotlin.math.abs
 import kotlin.math.min
 
